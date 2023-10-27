@@ -10,18 +10,29 @@
 // import App from './10_React setState 点击按钮自增三次';
 // import App from './11_React.memo and memo';
 // import App from './12_FiberNode 调试信息';
-import App from './13_React.useCallback and perf';
-// import App from './1';
-// import App from './1';
-// import App from './1';
-// import App from './1';
-// import App from './1';
-// import App from './1';
-// import App from './1';
-// import App from './1';
-// import App from './1';
-// import App from './1';
-// import App from './1';
-// import App from './1';
+// import App from './13_React.useCallback and perf';
+// import App from './14_React 不可变对象之函数组件';
+// import App from './15_React state 批量更新二';
+// import App from './16_React SyntheticEvent';
+// import App from './17_React State 批量更新';
+// import App from './18_React capture value';
+// import App from './19_index as key 异常示例';
+// import App from './20_useEffect_clean';
+// import App from './21_react-codemirror2 (forked)';
+// import App from './22_react-effect-layout-nest';
+// import App from './23_React 不可变对象之类组件';
+// import App from './24_react-codemirror2 (forked)';
+// import App from './25_立即 SetCount';
+import App from './26_effect and layoutEffect';
+// import App from './27_';
+// import App from './2';
+// import App from './2';
+// import App from './2';
+// import App from './2';
 
 export default App;
+
+
+
+// styled-components
+// react-table
